@@ -1,0 +1,31 @@
+h1 {
+    background-color: cornflowerblue;
+    position: relative;
+    text-align: center;
+}
+body {
+    background-color: lightgrey;
+    border:white;
+    border-width: 15px;
+    border-style:groove;
+}
+
+#app {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    top: 40%
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    position: relative;
+    text-align: center;
+    top: 60%;
+    left: 45%;
+    border:black, 5px;
+    border-width: 10px;
+    border-radius: 50px;
+}
